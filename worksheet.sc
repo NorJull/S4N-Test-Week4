@@ -1,1 +1,3 @@
-(1 to 5)
+import scala.collection.immutable.HashSet
+
+val actual = HashSet.empty
