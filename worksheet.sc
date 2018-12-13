@@ -1,1 +1,1 @@
-val futureCompany = Seq("S","4","N")
+(1 to 5)

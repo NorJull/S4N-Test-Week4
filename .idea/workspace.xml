@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a6841fe3-de57-4bd7-a615-059f121fd95e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/vamosaprogramar/entity/Laptop.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/vamosaprogramar/entity/Laptop.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/SetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/SetTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/worksheet.sc" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet.sc" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,21 +31,24 @@
     <favorites_list name="FirstScalaProyect" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/worksheet.sc">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/sequence/VectorTest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="2" selection-start-column="2" selection-end-column="2" />
+            <state relative-caret-position="373">
+              <caret line="208" lean-forward="true" selection-start-line="208" selection-end-line="208" />
+              <folding>
+                <element signature="e#18#73#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/sequence/ListTest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="159" column="40" lean-forward="true" selection-start-line="159" selection-start-column="40" selection-end-line="159" selection-end-column="40" />
+            <state relative-caret-position="2720">
+              <caret line="160" column="3" lean-forward="true" selection-start-line="160" selection-start-column="3" selection-end-line="160" selection-end-column="3" />
               <folding>
                 <element signature="e#18#68#0" expanded="true" />
               </folding>
@@ -56,10 +57,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/vamosaprogramar/entity/Laptop.scala">
+        <entry file="file://$PROJECT_DIR$/worksheet.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/vamosaprogramar/entity/PartyTicket.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+              <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -104,18 +114,20 @@
         <option value="$PROJECT_DIR$/src/test/scala/TryTest.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/MapTest.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/SetTest.scala" />
-        <option value="$PROJECT_DIR$/worksheet.sc" />
         <option value="$PROJECT_DIR$/src/test/scala/SeqTest.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/vamosaprogramar/entity/Laptop.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/sequence/ListTest.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/sequence/Vector.scala" />
+        <option value="$PROJECT_DIR$/worksheet.sc" />
+        <option value="$PROJECT_DIR$/src/test/scala/sequence/VectorTest.scala" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
-    <option name="width" value="1944" />
-    <option name="height" value="1044" />
+    <option name="x" value="2012" />
+    <option name="y" value="-22" />
+    <option name="width" value="1296" />
+    <option name="height" value="696" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -123,6 +135,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,18 +182,26 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="FirstScalaProyect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstScalaProyect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="sequence" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544665748112" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544713637790" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -199,7 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="ScalaTest.ListTest.usingFlatMapInAListOfList">
+  <component name="RunManager" selected="ScalaTest.VectorTest">
     <configuration name="Run the program" type="SbtRunConfiguration" factoryName="sbt Task">
       <setting name="tasks" value="~run" />
       <setting name="vmparams" value="-Xms512M -Xmx1024M -Xss1M -XX:+CMSClassUnloadingEnabled" />
@@ -209,63 +230,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest.usingFilterInAList" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+    <configuration name="VectorTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <module name="FirstScalaProyect" />
-      <setting name="path" value="sequence.ListTest" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="showProgressMessages" value="true" />
-      <setting name="useSbt" value="false" />
-      <setting name="useUiWithSbt" value="false" />
-      <envs />
-      <setting name="testKind" value="Test name" />
-      <setting name="path" value="sequence.ListTest" />
-      <setting name="testName" value="usingFilterInAList" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListTest.usingFlatMapInAListOfList" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
-      <module name="FirstScalaProyect" />
-      <setting name="path" value="sequence.ListTest" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="showProgressMessages" value="true" />
-      <setting name="useSbt" value="false" />
-      <setting name="useUiWithSbt" value="false" />
-      <envs />
-      <setting name="testKind" value="Test name" />
-      <setting name="path" value="sequence.ListTest" />
-      <setting name="testName" value="usingFlatMapInAListOfList" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListTest.usingTakeWhileInAList" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
-      <module name="FirstScalaProyect" />
-      <setting name="path" value="sequence.ListTest" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="showProgressMessages" value="true" />
-      <setting name="useSbt" value="false" />
-      <setting name="useUiWithSbt" value="false" />
-      <envs />
-      <setting name="testKind" value="Test name" />
-      <setting name="path" value="sequence.ListTest" />
-      <setting name="testName" value="usingTakeWhileInAList" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
-      <module name="FirstScalaProyect" />
-      <setting name="path" value="MapTest" />
+      <setting name="path" value="sequence.VectorTest" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
       <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
@@ -275,14 +242,14 @@
       <setting name="useUiWithSbt" value="false" />
       <envs />
       <setting name="testKind" value="Class" />
-      <setting name="path" value="MapTest" />
+      <setting name="path" value="sequence.VectorTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeqTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+    <configuration name="VectorTest.usingCollect" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <module name="FirstScalaProyect" />
-      <setting name="path" value="SeqTest" />
+      <setting name="path" value="sequence.VectorTest" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
       <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
@@ -291,27 +258,82 @@
       <setting name="useSbt" value="false" />
       <setting name="useUiWithSbt" value="false" />
       <envs />
-      <setting name="testKind" value="Class" />
-      <setting name="path" value="SeqTest" />
+      <setting name="testKind" value="Test name" />
+      <setting name="path" value="sequence.VectorTest" />
+      <setting name="testName" value="usingCollect" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VectorTest.usingFlatMap" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="FirstScalaProyect" />
+      <setting name="path" value="sequence.VectorTest" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Test name" />
+      <setting name="path" value="sequence.VectorTest" />
+      <setting name="testName" value="usingFlatMap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VectorTest.usingFlatten" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="FirstScalaProyect" />
+      <setting name="path" value="sequence.VectorTest" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Test name" />
+      <setting name="path" value="sequence.VectorTest" />
+      <setting name="testName" value="usingFlatten" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VectorTest.usingMap" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="FirstScalaProyect" />
+      <setting name="path" value="sequence.VectorTest" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Test name" />
+      <setting name="path" value="sequence.VectorTest" />
+      <setting name="testName" value="usingMap" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="sbt Task.Run the program" />
-      <item itemvalue="ScalaTest.SeqTest" />
-      <item itemvalue="ScalaTest.MapTest" />
-      <item itemvalue="ScalaTest.ListTest.usingFilterInAList" />
-      <item itemvalue="ScalaTest.ListTest.usingTakeWhileInAList" />
-      <item itemvalue="ScalaTest.ListTest.usingFlatMapInAListOfList" />
+      <item itemvalue="ScalaTest.VectorTest.usingCollect" />
+      <item itemvalue="ScalaTest.VectorTest.usingFlatten" />
+      <item itemvalue="ScalaTest.VectorTest.usingMap" />
+      <item itemvalue="ScalaTest.VectorTest.usingFlatMap" />
+      <item itemvalue="ScalaTest.VectorTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="ScalaTest.ListTest.usingFlatMapInAListOfList" />
-        <item itemvalue="ScalaTest.ListTest.usingTakeWhileInAList" />
-        <item itemvalue="ScalaTest.ListTest.usingFilterInAList" />
-        <item itemvalue="ScalaTest.MapTest" />
-        <item itemvalue="ScalaTest.SeqTest" />
+        <item itemvalue="ScalaTest.VectorTest" />
+        <item itemvalue="ScalaTest.VectorTest.usingFlatMap" />
+        <item itemvalue="ScalaTest.VectorTest.usingMap" />
+        <item itemvalue="ScalaTest.VectorTest.usingFlatten" />
+        <item itemvalue="ScalaTest.VectorTest.usingCollect" />
       </list>
     </recent_temporary>
   </component>
@@ -376,50 +398,51 @@
       <workItem from="1544579292705" duration="2391000" />
       <workItem from="1544617419775" duration="5795000" />
       <workItem from="1544644787393" duration="7380000" />
-      <workItem from="1544662157381" duration="3568000" />
+      <workItem from="1544662157381" duration="3804000" />
+      <workItem from="1544703877430" duration="7522000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ListTest_usingForInAList - 2018.12.12 at 20h 15m 11s.xml">
-      <configuration name="ListTest.usingForInAList" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="VectorTest_usingTail - 2018.12.13 at 08h 34m 07s.xml">
+      <configuration name="VectorTest.usingTail" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="ListTest - 2018.12.12 at 20h 15m 56s.xml">
-      <configuration name="ListTest" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="VectorTest_usingHeadThenThrowException - 2018.12.13 at 08h 36m 10s.xml">
+      <configuration name="VectorTest.usingHeadThenThrowException" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="ListTest - 2018.12.12 at 20h 25m 33s.xml">
-      <configuration name="ListTest" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="ScalaTests_in_'scala' - 2018.12.13 at 08h 41m 21s.xml">
+      <configuration name="ScalaTests in 'scala'" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="SetTest - 2018.12.12 at 20h 25m 47s.xml">
-      <configuration name="SetTest" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="VectorTest_usingCollect - 2018.12.13 at 09h 42m 33s.xml">
+      <configuration name="VectorTest.usingCollect" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="SeqTest - 2018.12.12 at 20h 25m 56s.xml">
-      <configuration name="SeqTest" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="VectorTest_usingFlatten - 2018.12.13 at 09h 45m 54s.xml">
+      <configuration name="VectorTest.usingFlatten" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="MapTest - 2018.12.12 at 20h 26m 05s.xml">
-      <configuration name="MapTest" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="VectorTest_usingFlatten - 2018.12.13 at 09h 47m 33s.xml">
+      <configuration name="VectorTest.usingFlatten" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="ListTest_usingFilterInAList - 2018.12.12 at 20h 34m 44s.xml">
-      <configuration name="ListTest.usingFilterInAList" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="VectorTest_usingMap - 2018.12.13 at 09h 49m 59s.xml">
+      <configuration name="VectorTest.usingMap" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="ListTest_usingTakeWhileInAList - 2018.12.12 at 20h 36m 46s.xml">
-      <configuration name="ListTest.usingTakeWhileInAList" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="VectorTest_usingFlatMap - 2018.12.13 at 09h 51m 59s.xml">
+      <configuration name="VectorTest.usingFlatMap" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="ListTest_usingTakeWhileInAList - 2018.12.12 at 20h 36m 57s.xml">
-      <configuration name="ListTest.usingTakeWhileInAList" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="VectorTest_usingFlatMap - 2018.12.13 at 09h 52m 29s.xml">
+      <configuration name="VectorTest.usingFlatMap" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="ListTest_usingFlatMapInAListOfList - 2018.12.12 at 20h 48m 24s.xml">
-      <configuration name="ListTest.usingFlatMapInAListOfList" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="VectorTest - 2018.12.13 at 10h 02m 31s.xml">
+      <configuration name="VectorTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61035000" />
+    <option name="totallyTimeSpent" value="68793000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="1912" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49881235" visible="true" weight="0.26477733" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49881235" visible="true" weight="0.21401028" />
       <window_info id="Structure" order="1" sideWeight="0.5011876" side_tool="true" weight="0.23643725" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -428,7 +451,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5011876" side_tool="true" weight="0.23643725" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27353463" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2732167" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -438,7 +461,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32974428" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3268206" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3257066" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.32974428" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -518,34 +541,10 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/vamosaprogramar/service/PartyService.scala" />
     <entry file="file://$PROJECT_DIR$/src/test/scala/EitherTest.scala" />
     <entry file="file://$PROJECT_DIR$/src/test/scala/OptionTest.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/vamosaprogramar/entity/PartyTicket.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/worksheet.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/SetTest.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
           <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/MapTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="200" lean-forward="true" selection-start-line="200" selection-end-line="200" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -573,12 +572,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/MapTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="200" lean-forward="true" selection-start-line="200" selection-end-line="200" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/vamosaprogramar/entity/PartyTicket.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worksheet.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/sequence/ListTest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="159" column="40" lean-forward="true" selection-start-line="159" selection-start-column="40" selection-end-line="159" selection-end-column="40" />
+        <state relative-caret-position="2720">
+          <caret line="160" column="3" lean-forward="true" selection-start-line="160" selection-start-column="3" selection-end-line="160" selection-end-column="3" />
           <folding>
             <element signature="e#18#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/sequence/VectorTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="208" lean-forward="true" selection-start-line="208" selection-end-line="208" />
+          <folding>
+            <element signature="e#18#73#0" expanded="true" />
           </folding>
         </state>
       </provider>
