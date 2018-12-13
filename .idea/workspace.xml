@@ -4,10 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/test/scala/MapTest.scala" line="67" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6841fe3-de57-4bd7-a615-059f121fd95e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/worksheet.sc" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet.sc" afterDir="false" />
-    </list>
+    <list default="true" id="a6841fe3-de57-4bd7-a615-059f121fd95e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -32,14 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/set/HashSetTest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="114" lean-forward="true" selection-start-line="114" selection-end-line="114" />
-              <folding>
-                <element signature="e#13#42#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-1326">
+              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -53,13 +47,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/sequence/VectorTest.scala">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/map/HashMapTest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="18" selection-end-column="42" />
+            <state relative-caret-position="305">
+              <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
               <folding>
-                <element signature="e#18#73#0" expanded="true" />
+                <element signature="e#13#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/MapTest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="200" lean-forward="true" selection-start-line="200" selection-end-line="200" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -112,6 +118,7 @@
         <option value="$PROJECT_DIR$/src/test/scala/sequence/VectorTest.scala" />
         <option value="$PROJECT_DIR$/worksheet.sc" />
         <option value="$PROJECT_DIR$/src/test/scala/set/HashSetTest.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/map/HashMapTest.scala" />
       </list>
     </option>
   </component>
@@ -200,7 +207,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544728577423" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544733182991" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -220,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="ScalaTest.ScalaTests in 'scala'">
+  <component name="RunManager" selected="ScalaTest.HashMapTest">
     <configuration name="Run the program" type="SbtRunConfiguration" factoryName="sbt Task">
       <setting name="tasks" value="~run" />
       <setting name="vmparams" value="-Xms512M -Xmx1024M -Xss1M -XX:+CMSClassUnloadingEnabled" />
@@ -230,9 +237,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+    <configuration name="HashMapTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <module name="FirstScalaProyect" />
-      <setting name="path" value="set.HashSetTest" />
+      <setting name="path" value="map.HashMapTest" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
       <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
@@ -242,14 +249,14 @@
       <setting name="useUiWithSbt" value="false" />
       <envs />
       <setting name="testKind" value="Class" />
-      <setting name="path" value="set.HashSetTest" />
+      <setting name="path" value="map.HashMapTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetTest.usingFlatMap" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+    <configuration name="HashMapTest.addingElmentsToAHashMap03" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <module name="FirstScalaProyect" />
-      <setting name="path" value="set.HashSetTest" />
+      <setting name="path" value="map.HashMapTest" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
       <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
@@ -259,15 +266,15 @@
       <setting name="useUiWithSbt" value="false" />
       <envs />
       <setting name="testKind" value="Test name" />
-      <setting name="path" value="set.HashSetTest" />
-      <setting name="testName" value="usingFlatMap" />
+      <setting name="path" value="map.HashMapTest" />
+      <setting name="testName" value="addingElmentsToAHashMap03" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetTest.usingFlatten" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+    <configuration name="HashMapTest.removingElmentsFromAHashMap01" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <module name="FirstScalaProyect" />
-      <setting name="path" value="set.HashSetTest" />
+      <setting name="path" value="map.HashMapTest" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
       <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
@@ -277,15 +284,15 @@
       <setting name="useUiWithSbt" value="false" />
       <envs />
       <setting name="testKind" value="Test name" />
-      <setting name="path" value="set.HashSetTest" />
-      <setting name="testName" value="usingFlatten" />
+      <setting name="path" value="map.HashMapTest" />
+      <setting name="testName" value="removingElmentsFromAHashMap01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetTest.usingMap" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+    <configuration name="HashMapTest.usingMap" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <module name="FirstScalaProyect" />
-      <setting name="path" value="set.HashSetTest" />
+      <setting name="path" value="map.HashMapTest" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
       <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
@@ -295,15 +302,15 @@
       <setting name="useUiWithSbt" value="false" />
       <envs />
       <setting name="testKind" value="Test name" />
-      <setting name="path" value="set.HashSetTest" />
+      <setting name="path" value="map.HashMapTest" />
       <setting name="testName" value="usingMap" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScalaTests in 'scala'" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true">
+    <configuration name="HashMapTest.usingMapValues" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <module name="FirstScalaProyect" />
-      <setting name="path" value="" />
+      <setting name="path" value="map.HashMapTest" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
       <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
@@ -312,36 +319,28 @@
       <setting name="useSbt" value="false" />
       <setting name="useUiWithSbt" value="false" />
       <envs />
-      <setting name="testKind" value="All in package" />
-      <setting name="package" value="" />
-      <buffered bufClass="MapTest" />
-      <buffered bufClass="SeqTest" />
-      <buffered bufClass="SetTest" />
-      <buffered bufClass="sequence.ListTest" />
-      <buffered bufClass="sequence.ListTest" />
-      <buffered bufClass="sequence.VectorTest" />
-      <buffered bufClass="sequence.VectorTest" />
-      <buffered bufClass="set.HashSetTest" />
-      <buffered bufClass="set.HashSetTest" />
+      <setting name="testKind" value="Test name" />
+      <setting name="path" value="map.HashMapTest" />
+      <setting name="testName" value="usingMapValues" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="sbt Task.Run the program" />
-      <item itemvalue="ScalaTest.HashSetTest" />
-      <item itemvalue="ScalaTest.HashSetTest.usingMap" />
-      <item itemvalue="ScalaTest.HashSetTest.usingFlatten" />
-      <item itemvalue="ScalaTest.HashSetTest.usingFlatMap" />
-      <item itemvalue="ScalaTest.ScalaTests in 'scala'" />
+      <item itemvalue="ScalaTest.HashMapTest.addingElmentsToAHashMap03" />
+      <item itemvalue="ScalaTest.HashMapTest.removingElmentsFromAHashMap01" />
+      <item itemvalue="ScalaTest.HashMapTest.usingMap" />
+      <item itemvalue="ScalaTest.HashMapTest.usingMapValues" />
+      <item itemvalue="ScalaTest.HashMapTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="ScalaTest.ScalaTests in 'scala'" />
-        <item itemvalue="ScalaTest.HashSetTest" />
-        <item itemvalue="ScalaTest.HashSetTest.usingFlatMap" />
-        <item itemvalue="ScalaTest.HashSetTest.usingFlatten" />
-        <item itemvalue="ScalaTest.HashSetTest.usingMap" />
+        <item itemvalue="ScalaTest.HashMapTest" />
+        <item itemvalue="ScalaTest.HashMapTest.usingMapValues" />
+        <item itemvalue="ScalaTest.HashMapTest.usingMap" />
+        <item itemvalue="ScalaTest.HashMapTest.removingElmentsFromAHashMap01" />
+        <item itemvalue="ScalaTest.HashMapTest.addingElmentsToAHashMap03" />
       </list>
     </recent_temporary>
   </component>
@@ -409,44 +408,44 @@
       <workItem from="1544662157381" duration="3804000" />
       <workItem from="1544703877430" duration="9627000" />
       <workItem from="1544719232190" duration="994000" />
-      <workItem from="1544725984507" duration="2575000" />
+      <workItem from="1544725984507" duration="6291000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HashSetTest_usingFor - 2018.12.13 at 13h 56m 19s.xml">
-      <configuration name="HashSetTest.usingFor" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="HashMapTest_removingElmentsFromAHashMap01 - 2018.12.13 at 15h 20m 18s.xml">
+      <configuration name="HashMapTest.removingElmentsFromAHashMap01" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="HashSetTest_usingFor - 2018.12.13 at 14h 00m 53s.xml">
-      <configuration name="HashSetTest.usingFor" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="HashMapTest_removingElmentsFromAHashMap01 - 2018.12.13 at 15h 21m 02s.xml">
+      <configuration name="HashMapTest.removingElmentsFromAHashMap01" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="HashSetTest_usingFor - 2018.12.13 at 14h 02m 05s.xml">
-      <configuration name="HashSetTest.usingFor" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="HashMapTest_removingElmentsFromAHashMap01 - 2018.12.13 at 15h 21m 26s.xml">
+      <configuration name="HashMapTest.removingElmentsFromAHashMap01" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="HashSetTest_usingMap - 2018.12.13 at 14h 06m 52s.xml">
-      <configuration name="HashSetTest.usingMap" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="HashMapTest_usingMap - 2018.12.13 at 15h 24m 49s.xml">
+      <configuration name="HashMapTest.usingMap" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="HashSetTest_usingMap - 2018.12.13 at 14h 07m 06s.xml">
-      <configuration name="HashSetTest.usingMap" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="HashMapTest_usingMapValues - 2018.12.13 at 15h 25m 53s.xml">
+      <configuration name="HashMapTest.usingMapValues" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="HashSetTest_usingFlatten - 2018.12.13 at 14h 09m 17s.xml">
-      <configuration name="HashSetTest.usingFlatten" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="HashMapTest_usingMapValues - 2018.12.13 at 15h 26m 14s.xml">
+      <configuration name="HashMapTest.usingMapValues" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="HashSetTest_usingFlatMap - 2018.12.13 at 14h 11m 05s.xml">
-      <configuration name="HashSetTest.usingFlatMap" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="HashMapTest_usingMapValues - 2018.12.13 at 15h 26m 33s.xml">
+      <configuration name="HashMapTest.usingMapValues" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="HashSetTest_usingFlatMap - 2018.12.13 at 14h 11m 58s.xml">
-      <configuration name="HashSetTest.usingFlatMap" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="HashMapTest_usingMapValues - 2018.12.13 at 15h 27m 10s.xml">
+      <configuration name="HashMapTest.usingMapValues" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="HashSetTest_usingFlatMap - 2018.12.13 at 14h 12m 52s.xml">
-      <configuration name="HashSetTest.usingFlatMap" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="HashMapTest_usingMapValues - 2018.12.13 at 15h 27m 43s.xml">
+      <configuration name="HashMapTest.usingMapValues" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="HashSetTest_usingFlatMap - 2018.12.13 at 14h 14m 42s.xml">
-      <configuration name="HashSetTest.usingFlatMap" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="HashMapTest - 2018.12.13 at 15h 28m 13s.xml">
+      <configuration name="HashMapTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74467000" />
+    <option name="totallyTimeSpent" value="78183000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1616" height="876" extended-state="6" />
@@ -582,16 +581,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/MapTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="200" lean-forward="true" selection-start-line="200" selection-end-line="200" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/vamosaprogramar/entity/PartyTicket.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -628,8 +617,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/set/HashSetTest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="114" lean-forward="true" selection-start-line="114" selection-end-line="114" />
+        <state relative-caret-position="-1326">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/MapTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="200" lean-forward="true" selection-start-line="200" selection-end-line="200" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/map/HashMapTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
           <folding>
             <element signature="e#13#42#0" expanded="true" />
           </folding>
