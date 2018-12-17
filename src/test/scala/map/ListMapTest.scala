@@ -5,6 +5,15 @@ import scala.collection.immutable.ListMap
 
 class ListMapTest extends FunSuite {
 
+  /**************************************
+                Map
+                 |
+          ----------------
+          |
+      ListMap
+
+    *************************************/
+
   test("simpleListMap") {
 
     val actual = ListMap(1 -> "Colombia", 2 -> "Cuba", 3 -> "Puerto Rico")
@@ -73,6 +82,15 @@ class ListMapTest extends FunSuite {
     val actual = countrysToVisit - (3)
 
     assert(ListMap(1 -> "Colombia", 2 -> "Cuba") === actual)
+
+  }
+
+  test("usingMapValues") {
+    val countrysToVisit = ListMap(1 -> "Colombia", 2 -> "Cuba", 3 -> "Puerto Rico")
+
+    val actual = countrysToVisit.mapValues(_.toUpperCase())
+
+    assert(ListMap(1 -> "COLOMBIA", 2 -> "CUBA", 3->"PUERTO RICO") === actual)
 
   }
 }
